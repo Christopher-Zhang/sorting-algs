@@ -1,0 +1,12 @@
+.array-container{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.array-value{
+    width: 2px;
+    background-color:pink;
+    /* display:inline-block; */
+    margin: 0 1px;
+}
