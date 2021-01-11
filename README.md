@@ -1,3 +1,9 @@
+# This project is no longer being updated
+
+This has now been ported to my website build, and updates will be made there: \
+https://github.com/Christopher-Zhang/christopher-zhang.github.io
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
